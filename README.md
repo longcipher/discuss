@@ -6,10 +6,20 @@ Contact
 
 Groups (QR codes):
 
-- Web3 group: ![Web3 Group](assets/longcipher_web3_group.jpg)
-- AI group: ![AI Group](assets/longcipher_ai_group.jpg)
-
-Assistant WeChat: ![Assistant](assets/longcipher_assistant.jpg)
+<div style="display:flex; gap:24px; align-items:flex-start; flex-wrap:wrap;">
+	<div style="text-align:center;">
+		<img src="assets/longcipher_web3_group.jpg" alt="Web3 Group" width="200" />
+		<div>Web3 group</div>
+	</div>
+	<div style="text-align:center;">
+		<img src="assets/longcipher_ai_group.jpg" alt="AI Group" width="200" />
+		<div>AI group</div>
+	</div>
+	<div style="text-align:center;">
+		<img src="assets/longcipher_assistant.jpg" alt="Assistant" width="200" />
+		<div>Assistant WeChat</div>
+	</div>
+</div>
 
 Douyin: ![Douyin](assets/longcipher_douyin.jpg)
 
@@ -21,10 +31,20 @@ Douyin: ![Douyin](assets/longcipher_douyin.jpg)
 
 微信群二维码：
 
-- Web3 群: ![Web3 群](assets/longcipher_web3_group.jpg)
-- AI 群: ![AI 群](assets/longcipher_ai_group.jpg)
-
-小助理微信： ![小助理](assets/longcipher_assistant.jpg)
+<div style="display:flex; gap:24px; align-items:flex-start; flex-wrap:wrap;">
+	<div style="text-align:center;">
+		<img src="assets/longcipher_web3_group.jpg" alt="Web3 群" width="200" />
+		<div>Web3 群</div>
+	</div>
+	<div style="text-align:center;">
+		<img src="assets/longcipher_ai_group.jpg" alt="AI 群" width="200" />
+		<div>AI 群</div>
+	</div>
+	<div style="text-align:center;">
+		<img src="assets/longcipher_assistant.jpg" alt="小助理" width="200" />
+		<div>小助理微信</div>
+	</div>
+</div>
 
 抖音： ![抖音](assets/longcipher_douyin.jpg)
 
