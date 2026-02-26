@@ -5,6 +5,7 @@
 联系方式
 
 - Telegram: https://t.me/longcipher （群内运行多个监控机器人，每日推送市场跟踪分析）
+- Discord: https://discord.gg/ydBJspD
 
 微信群二维码：
 
@@ -30,6 +31,7 @@
 Contact
 
 - Telegram: https://t.me/longcipher (Monitor bots & daily market tracking analysis inside)
+- Discord: https://discord.gg/ydBJspD
 
 Groups (QR codes):
 
